@@ -1,4 +1,4 @@
-## Hi my name is mauro rivera, I study programming at the faculty of exact sciences 👋
+## Hi my name is Mauro Rivera, I study programming at the faculty of exact sciences 👋
 I’m currently learning application development in languages like PHP, JavaScript, Angular, MySql 🌱
 
 ## 💬Where do find me:
