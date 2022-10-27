@@ -1,7 +1,7 @@
 ## Hi my name is mauro rivera, I study programming at the faculty of exact sciences 👋
 I’m currently learning application development in languages like PHP, JavaScript, Angular, MySql 🌱
 
-##💬Where do find me:
+## 💬Where do find me:
 -[Linkedin](https://www.linkedin.com/in/mauroriverae/)
 <!--
 **mauroriverae/mauroriverae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
