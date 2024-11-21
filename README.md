@@ -67,4 +67,9 @@ I am a programming student, currently halfway through my degree. I am expanding 
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </span>
+<div>
+  <h2>Github stats:</h2> 
+  [![](https://github-readme-stats.vercel.app/api?username=mauroriverae&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=mauroriverae&theme=material-palenight)](https://github.com/valentinawerle)
+</div>
 
