@@ -1,19 +1,16 @@
 <h1 align="center"><b>Hi , I'm Mauro Rivera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Where do find me:
--[Linkedin](https://www.linkedin.com/in/mauroriverae/)
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
 
-<!--
-**mauroriverae/mauroriverae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+I am a programming student, currently halfway through my degree. I am expanding my knowledge in both back-end abd front-end development, and I work as a software developer at a company that creates systems for Veterinarys. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Symfony PHP
+  - Laravel
+  - JavaScrip
+  - Angular
+- I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- 📫 Reach out to me at: <a href="mauroriverae@gmail.com">mauroriverae@gmail.com</a>
