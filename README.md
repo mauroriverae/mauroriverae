@@ -64,6 +64,7 @@ I am a programming student, currently halfway through my degree. I am expanding 
   <a href= "https://www.instagram.com/maurorivvera/?hl=es" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
+
   <a href="https://linkedin.com/in/mauroriverae" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
