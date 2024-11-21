@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a programming student, currently halfway through my degree. I am expanding my knowledge in both back-end abd front-end development, and I work as a software developer at a company that creates systems for Veterinarys. I love to learn and build something new, productive, innovative and creative.
+I am a programming student, currently halfway through my degree. I am expanding my knowledge in both back-end abd front-end development, and I work as a software developer at a company that provides a veterinary management system. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - Symfony PHP
   - Laravel
